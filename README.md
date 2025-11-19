@@ -11,7 +11,7 @@ And this is my first try to push my first scripts to Github, although the codes 
 ---
 
 ### 使用方法
-1. **(Recommended)** 把这个.py程序放在一个地方，直接双击运行（前提是得装了python环境，不需要任何第三方库，我用的3.8没问题，应该更新的版本也行）
+1. **(Recommended)** 把这个Convert_verilog_to_txt_V1_3.py程序放在一个地方，直接双击运行（前提是得装了python环境，不需要任何第三方库，我用的3.8没问题，应该更新的版本也行）
 2. 下载exe文件，就把它跟.py一样用就行，直接双击运行。
 
 它会把py文件同层的所有.v文件和同层的文件夹以及其子文件夹内的所有.v文件全部转化为.txt文件
