@@ -4,7 +4,7 @@
 ### 这是一个批量把.v文件转换为.txt文件的小工具，方便喂给不支持.v文件的LLM，可以运行python文件或直接下载exe文件双击运行。详情请见README文件。
 
 #### This is a small utility that batch converts .v files into .txt files, making it easier to feed them into LLMs that don’t support .v format. You can either run the Python script or simply download the .exe file and double‑click to run it. For more details, please refer to the README file.
-( Sorry I'm lazy to translate the README. At first, I planned to use AI to do the translation job, but I think it's can be done for everyone with prefered translation tools or LLMs they like. So if you need, please translate the README below.)
+( Sorry I'm lazy to translate the README. At first, I planned to use AI to do the translation job, but I think it's can be done for everyone with preferred translation tools or LLMs they like. So if you need, please translate the README below.)
 
 And this is my first try to push my first scripts to Github, although the codes are pretty simple. Hope I can gain a lot and contribute a lot here( HaHa I kown it's almost impossible for me, but I still hope what I upload to Github will find someone who needs it too )
 
